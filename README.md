@@ -8,6 +8,7 @@
 
 ## Canais do Youtube
 
+* Alura https://www.youtube.com/user/aluracursosonline
 * Fabio Akita https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ
 * Full Cycle https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA
 * LINUXtips https://www.youtube.com/user/linuxtipscanal
