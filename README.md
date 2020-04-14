@@ -32,5 +32,7 @@
 
 ## Podcasts
 
+* Carreira sem Fronteiras https://www.carreirasemfronteiras.com.br
+* Like a Boss https://www.likeaboss.com.br
 * Hipsters Ponto Tech https://hipsters.tech/
 * Podcast Full Cycle https://fullcycle.com.br/categoria/podcast/
