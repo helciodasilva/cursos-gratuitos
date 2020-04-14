@@ -4,6 +4,7 @@
 
 * Alura https://www.alura.com.br/artigos
 * Caelum https://blog.caelum.com.br/
+* Geek Blog https://blog.geekhunter.com.br/
 * Mundo Docker https://www.mundodocker.com.br/
 
 ## Canais do Youtube
