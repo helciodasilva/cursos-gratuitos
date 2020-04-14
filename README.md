@@ -26,6 +26,7 @@
 * Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
 * Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
 * TDCOnline Especial BH https://thedevconf.com/tdc/2020/especialbh/trilhas
+* Fullstack Open 2020 https://fullstackopen.com/en
 
 ## Podcasts
 
