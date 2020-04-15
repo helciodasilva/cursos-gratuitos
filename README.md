@@ -35,8 +35,20 @@
 * QUARENTENADADOS: Aprenda Ciência de Dados https://www.alura.com.br/quarentenadados
 * TDCOnline Especial BH https://thedevconf.com/tdc/2020/especialbh/trilhas
 
+### Documentações
+* SEMVER https://semver.org/lang/pt-BR
+* Canivete Suíço do Shell (Bash) https://aurelio.net/shell/canivete/
+* Lombok https://projectlombok.org/features/all
+
+### Ferramentas
+* Can I use https://caniuse.com/#search=ECMAScript%202015
+* Mark As Read https://chrome.google.com/webstore/detail/mark-as-read/hiflhkmicfagennabmnfcnnlpkmidfjj
+* Paste to Markdown https://euangoddard.github.io/clipboard2markdown/
+
 ### Github pages
+* 100 Days Of Code https://github.com/nas5w/100-days-of-code-frontend
 * ES6 para humanos https://github.com/alexmoreno/ES6-para-humanos
+* Guia de referencias sobre estudo de JavaScript https://gist.github.com/vinicius73/60027329a3855345e15b2eeaa3fd588d
 
 ## Podcasts
 
