@@ -35,6 +35,9 @@
 * QUARENTENADADOS: Aprenda Ciência de Dados https://www.alura.com.br/quarentenadados
 * TDCOnline Especial BH https://thedevconf.com/tdc/2020/especialbh/trilhas
 
+### Github pages
+* ES6 para humanos https://github.com/alexmoreno/ES6-para-humanos
+
 ## Podcasts
 
 * Carreira sem Fronteiras https://www.carreirasemfronteiras.com.br
