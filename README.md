@@ -28,7 +28,7 @@
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * 7° Workshop do Photoshop Alto Nível https://photoshopaltonivel.com.br/workshop-entrada
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
-* Caminhos de adoção do GitLab https://about.gitlab.com/webcast/adoption-paths-portuguese/
+* Caminhos de adoção do GitLab https://about.gitlab.com/webcast/adoption-paths-portuguese
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes
 * Fullstack Open 2020 https://fullstackopen.com/en
 * Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
@@ -38,13 +38,13 @@
 
 ### Documentações
 * SEMVER https://semver.org/lang/pt-BR
-* Canivete Suíço do Shell (Bash) https://aurelio.net/shell/canivete/
+* Canivete Suíço do Shell (Bash) https://aurelio.net/shell/canivete
 * Lombok https://projectlombok.org/features/all
 
 ### Ferramentas
 * Can I use https://caniuse.com/#search=ECMAScript%202015
 * Mark As Read https://chrome.google.com/webstore/detail/mark-as-read/hiflhkmicfagennabmnfcnnlpkmidfjj
-* Paste to Markdown https://euangoddard.github.io/clipboard2markdown/
+* Paste to Markdown https://euangoddard.github.io/clipboard2markdown
 
 ### Github pages
 * 100 Days Of Code https://github.com/nas5w/100-days-of-code-frontend
