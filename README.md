@@ -26,10 +26,11 @@
 * 7° Workshop do Photoshop Alto Nível https://photoshopaltonivel.com.br/workshop-entrada
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes/
+* Fullstack Open 2020 https://fullstackopen.com/en
 * Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
 * Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
+* QUARENTENADADOS: Aprenda Ciência de Dados https://www.alura.com.br/quarentenadados
 * TDCOnline Especial BH https://thedevconf.com/tdc/2020/especialbh/trilhas
-* Fullstack Open 2020 https://fullstackopen.com/en
 
 ## Podcasts
 
