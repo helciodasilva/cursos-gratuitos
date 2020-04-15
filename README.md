@@ -8,6 +8,11 @@
 * InfoQ Brasil https://www.infoq.com/br
 * Mundo Docker https://www.mundodocker.com.br
 
+## Canais do Telegram
+
+* Gabriel Ferreira https://t.me/Amigosdogabs
+* Tudo sobre Full Cycle Development https://t.me/s/devfullcycle
+
 ## Canais do Youtube
 
 * Alura https://www.youtube.com/user/aluracursosonline
@@ -36,17 +41,20 @@
 * QUARENTENADADOS: Aprenda Ciência de Dados https://www.alura.com.br/quarentenadados
 * TDCOnline Especial BH https://thedevconf.com/tdc/2020/especialbh/trilhas
 
-### Documentações
+## Documentações
+
 * SEMVER https://semver.org/lang/pt-BR
 * Canivete Suíço do Shell (Bash) https://aurelio.net/shell/canivete
 * Lombok https://projectlombok.org/features/all
 
-### Ferramentas
+## Ferramentas
+
 * Can I use https://caniuse.com/#search=ECMAScript%202015
 * Mark As Read https://chrome.google.com/webstore/detail/mark-as-read/hiflhkmicfagennabmnfcnnlpkmidfjj
 * Paste to Markdown https://euangoddard.github.io/clipboard2markdown
 
-### Github pages
+## Github pages
+
 * 100 Days Of Code https://github.com/nas5w/100-days-of-code-frontend
 * ES6 para humanos https://github.com/alexmoreno/ES6-para-humanos
 * Guia de referencias sobre estudo de JavaScript https://gist.github.com/vinicius73/60027329a3855345e15b2eeaa3fd588d
@@ -57,3 +65,7 @@
 * Like a Boss https://www.likeaboss.com.br
 * Hipsters Ponto Tech https://hipsters.tech
 * Podcast Full Cycle https://fullcycle.com.br/categoria/podcast
+
+## Treinamentos
+
+* Um site muito interessante que te ensina criptografia moderna através de desafios e puzzles https://cryptohack.org
