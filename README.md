@@ -28,6 +28,7 @@
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * 7° Workshop do Photoshop Alto Nível https://photoshopaltonivel.com.br/workshop-entrada
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
+* Caminhos de adoção do GitLab https://about.gitlab.com/webcast/adoption-paths-portuguese/
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes
 * Fullstack Open 2020 https://fullstackopen.com/en
 * Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
