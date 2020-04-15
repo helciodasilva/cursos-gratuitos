@@ -37,6 +37,7 @@
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes
 * Fullstack Open 2020 https://fullstackopen.com/en
 * Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
+* Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
 * Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
 * QUARENTENADADOS: Aprenda Ciência de Dados https://www.alura.com.br/quarentenadados
 * TDCOnline Especial BH https://thedevconf.com/tdc/2020/especialbh/trilhas
