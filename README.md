@@ -6,6 +6,7 @@
 * Geek Blog https://blog.geekhunter.com.br
 * InfoQ Brasil https://www.infoq.com/br
 * Mundo Docker https://www.mundodocker.com.br
+* Quarentena Tech https://quarentena.tech
 
 ## Canais do Telegram
 
@@ -60,6 +61,7 @@
 * 100 Days Of Code https://github.com/nas5w/100-days-of-code-frontend
 * ES6 para humanos https://github.com/alexmoreno/ES6-para-humanos
 * Guia de referencias sobre estudo de JavaScript https://gist.github.com/vinicius73/60027329a3855345e15b2eeaa3fd588d
+* quarentena-tech https://github.com/CollabCodeTech/quarentena-tech
 
 ## Podcasts
 
@@ -70,7 +72,7 @@
 
 ## Projetos de exemplo
 
-* Facial Recognition v3 - https://github.com/kingaspx/Facial-Recognition
+* Facial Recognition v3 https://github.com/kingaspx/Facial-Recognition
 
 ## Treinamentos
 
