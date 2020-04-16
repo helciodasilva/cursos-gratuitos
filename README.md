@@ -68,6 +68,10 @@
 * Hipsters Ponto Tech https://hipsters.tech
 * Podcast Full Cycle https://fullcycle.com.br/categoria/podcast
 
+## Projetos de exemplo
+
+* Facial Recognition v3 - https://github.com/kingaspx/Facial-Recognition
+
 ## Treinamentos
 
 * Um site muito interessante que te ensina criptografia moderna através de desafios e puzzles https://cryptohack.org
