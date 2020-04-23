@@ -15,19 +15,7 @@
 
 ## Canais do Youtube
 
-* Alura https://www.youtube.com/user/aluracursosonline
-* balta.io https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg
-* Fabio Akita https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ
-* Full Cycle https://www.youtube.com/channel/UCMUoZehUZBhLb8XaTc8TQrA
-* LINUXtips https://www.youtube.com/user/linuxtipscanal
-* Loiane Groner https://www.youtube.com/user/Loianeg
-* QAX https://www.youtube.com/channel/UCWlQJjEWVcGRRaWKzCzHIXQ
-* School of Net https://www.youtube.com/channel/UCIlafifr-E57jct9knCrZzw
-* SouJava https://www.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w
-* Tempo Real Eventos https://www.youtube.com/channel/UCHTnycV6MdrvCHCtQv0QLnw
-* Rocketseat https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg
-* Rodrigo Branas https://www.youtube.com/user/rodrigobranas
-* v JUG https://www.youtube.com/user/virtualJUG
+* videos-pt.br-tecnologia https://github.com/carolsoaressantos/videos-pt.br-tecnologia
 
 ## Cursos Grátis
 
