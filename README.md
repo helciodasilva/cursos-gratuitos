@@ -59,6 +59,7 @@
 * Like a Boss https://www.likeaboss.com.br
 * Hipsters Ponto Tech https://hipsters.tech
 * Podcast Full Cycle https://fullcycle.com.br/categoria/podcast
+* QuebraDev https://quebradev.com.br
 
 ## Projetos de exemplo
 
