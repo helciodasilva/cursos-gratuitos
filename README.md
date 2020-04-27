@@ -23,6 +23,7 @@
 * 2º MARATONA DO UX http://maratonadoux.com.br
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
+* Danki Code https://cursos.dankicode.com/registrar
 * Digital Innovation One https://web.digitalinnovation.one
 * Fullstack Open 2020 https://fullstackopen.com/en
 * Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities/
