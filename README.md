@@ -26,6 +26,7 @@
 * Danki Code https://cursos.dankicode.com/registrar
 * Digital Innovation One https://web.digitalinnovation.one
 * Fullstack Open 2020 https://fullstackopen.com/en
+* Jornada Docker de A a Z https://gago.io/docker/jornada
 * Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities/
 * Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
 * Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
