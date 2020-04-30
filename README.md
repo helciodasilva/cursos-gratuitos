@@ -21,6 +21,7 @@
 
 * 15 Dias grátis de TreinaWeb https://www.treinaweb.com.br/promocao/acesso/TW-COV19
 * 2º MARATONA DO UX http://maratonadoux.com.br
+* 4ALL Tests Referências https://www.sympla.com.br/4all-tests-referencias__845080
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
 * Danki Code https://cursos.dankicode.com/registrar
@@ -31,7 +32,6 @@
 * Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
 * Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
 * Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
-* TDCOnline Especial BH https://thedevconf.com/tdc/2020/especialbh/trilhas
 
 ## Documentações
 
