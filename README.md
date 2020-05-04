@@ -19,7 +19,6 @@
 
 ## Cursos Grátis
 
-* 15 Dias grátis de TreinaWeb https://www.treinaweb.com.br/promocao/acesso/TW-COV19
 * 2º MARATONA DO UX http://maratonadoux.com.br
 * 4ALL Tests Referências https://www.sympla.com.br/4all-tests-referencias__845080
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
@@ -27,6 +26,7 @@
 * Danki Code https://cursos.dankicode.com/registrar
 * Digital Innovation One https://web.digitalinnovation.one
 * Fullstack Open 2020 https://fullstackopen.com/en
+* Imersão Hipsters CSS https://www.alura.com.br/imersao-hipsters-css
 * Jornada Docker de A a Z https://gago.io/docker/jornada
 * Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities/
 * Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
