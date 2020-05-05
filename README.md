@@ -32,6 +32,7 @@
 * Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
 * Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
 * Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
+* RENDER É O PODER 2.0 https://anderalencar.com/rendereopoder20
 
 ## Documentações
 
@@ -45,7 +46,7 @@
 * Mark As Read https://chrome.google.com/webstore/detail/mark-as-read/hiflhkmicfagennabmnfcnnlpkmidfjj
 * Paste to Markdown https://euangoddard.github.io/clipboard2markdown
 
-## Github pages
+## Git Books
 
 * 100 Days Of Code https://github.com/nas5w/100-days-of-code-frontend
 * ES6 para humanos https://github.com/alexmoreno/ES6-para-humanos
