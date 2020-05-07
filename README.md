@@ -15,6 +15,7 @@
 
 ## Canais do Youtube
 
+* DevYouTubeList https://github.com/ErikCH/DevYouTubeList
 * videos-pt.br-tecnologia https://github.com/carolsoaressantos/videos-pt.br-tecnologia
 
 ## Cursos Grátis
