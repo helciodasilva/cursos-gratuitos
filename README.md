@@ -39,6 +39,7 @@
 * RENDER É O PODER 2.0 https://anderalencar.com/rendereopoder20
 * React Native utilizando Expo e sem Redux https://www.udemy.com/course/react-native-utilizando-expo-e-sem-redux/?couponCode=9B454307DBA6BC250B48
 * React, Redux e integração de APIs https://www.udemy.com/course/react-redux-e-integracao-de-apis/
+* TDC Florianópolis Online https://thedevconf.com/tdc/2020/floripaonline/trilhas
 
 ## Documentações
 
