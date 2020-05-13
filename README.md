@@ -21,26 +21,20 @@
 ## Cursos Grátis
 
 * 2º MARATONA DO UX http://maratonadoux.com.br
-* 4ALL Tests Referências https://www.sympla.com.br/4all-tests-referencias__845080
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
-* Angular, Spring e MongoDB do front ao banco de dados! https://www.udemy.com/course/angular-spring-e-mongodb-do-front-ao-banco-de-dados/?couponCode=70977C4E6086E85CC21F
 * Cursos do Nataniel Paiva https://contato.site/ac4587c0ad/nataniel-paiva/curso-gratuito
 * Danki Code https://cursos.dankicode.com/registrar
 * Digital Innovation One https://web.digitalinnovation.one
 * Fullstack Open 2020 https://fullstackopen.com/en
-* Imersão Hipsters CSS https://www.alura.com.br/imersao-hipsters-css
 * JSCasts https://jscasts.teachable.com/
-* Jornada Docker de A a Z https://gago.io/docker/jornada
 * Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities/
-* Maratona Full Cycle 2.0 http://pages.fullcycle.com.br/maratonafullcycle20-a
 * Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
 * Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
-* Quarkus com Panache, GraalVM, GitlabCI e AWS https://www.udemy.com/course/quarkus-com-panache-graalvm-gitlabci-e-aws/?couponCode=AFFCB5CFE3C08A89BDBB
 * RENDER É O PODER 2.0 https://anderalencar.com/rendereopoder20
-* React Native utilizando Expo e sem Redux https://www.udemy.com/course/react-native-utilizando-expo-e-sem-redux/?couponCode=9B454307DBA6BC250B48
 * React, Redux e integração de APIs https://www.udemy.com/course/react-redux-e-integracao-de-apis/
 * TDC Florianópolis Online https://thedevconf.com/tdc/2020/floripaonline/trilhas
+* Zup Open Talks https://insights.zup.com.br/zup-open-talks
 
 ## Documentações
 
