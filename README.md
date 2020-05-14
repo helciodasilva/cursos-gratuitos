@@ -27,6 +27,7 @@
 * Danki Code https://cursos.dankicode.com/registrar
 * Digital Innovation One https://web.digitalinnovation.one
 * Fullstack Open 2020 https://fullstackopen.com/en
+* Guia de sobrevivência para desenvolvedores https://conteudo.blog.locaweb.com.br/guia-de-sobrevivencia-para-desenvolvedores
 * JSCasts https://jscasts.teachable.com/
 * Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities/
 * Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
