@@ -25,6 +25,7 @@
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
 * Cursos do Nataniel Paiva https://contato.site/ac4587c0ad/nataniel-paiva/curso-gratuito
+* Curso de Desenvolvimento Web da Startec http://startecexp.com/curso-de-desenvolvimento-web-da-startec
 * Danki Code https://cursos.dankicode.com/registrar
 * Digital Innovation One https://web.digitalinnovation.one
 * Fullstack Open 2020 https://fullstackopen.com/en
