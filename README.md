@@ -35,6 +35,7 @@
 * Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
 * RENDER É O PODER 2.0 https://anderalencar.com/rendereopoder20
 * React, Redux e integração de APIs https://www.udemy.com/course/react-redux-e-integracao-de-apis/
+* REST-Assured e Junit - Testando API - Direto ao ponto https://www.udemy.com/course/teste-api-rest-assured/
 * TDC Florianópolis Online https://thedevconf.com/tdc/2020/floripaonline/trilhas
 * Zup Open Talks https://insights.zup.com.br/zup-open-talks
 
