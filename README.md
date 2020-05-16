@@ -20,6 +20,7 @@
 
 ## Cursos Grátis
 
+* 1ª MARATONA DE DESENVOLVIMENTO JAVA https://www.academiadoprofissionaldeti.com.br/lp-maratona-do-desenvolvedor-java/
 * 2º MARATONA DO UX http://maratonadoux.com.br
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
