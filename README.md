@@ -24,9 +24,11 @@
 * 2º MARATONA DO UX http://maratonadoux.com.br
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
-* Cursos do Nataniel Paiva https://contato.site/ac4587c0ad/nataniel-paiva/curso-gratuito
+* Angular e ReactJS https://www.udemy.com/course/aprenda-reactjs-e-angular-lib-e-framework-mais-utilizados/?couponCode=0B56296784D60D8985D4
 * Curso de Desenvolvimento Web da Startec http://startecexp.com/curso-de-desenvolvimento-web-da-startec
+* Curso de Quarkus e MongoDB https://www.udemy.com/course/quarkus-com-mongodb/?couponCode=8B8344DE47C00A4A4476
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes
+* Cursos do Nataniel Paiva https://contato.site/ac4587c0ad/nataniel-paiva/curso-gratuito
 * Danki Code https://cursos.dankicode.com/registrar
 * Digital Innovation One https://web.digitalinnovation.one
 * Fullstack Open 2020 https://fullstackopen.com/en
@@ -36,8 +38,9 @@
 * Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
 * Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
 * RENDER É O PODER 2.0 https://anderalencar.com/rendereopoder20
-* React, Redux e integração de APIs https://www.udemy.com/course/react-redux-e-integracao-de-apis/
 * REST-Assured e Junit - Testando API - Direto ao ponto https://www.udemy.com/course/teste-api-rest-assured/
+* React Native https://www.udemy.com/course/react-native-utilizando-expo-e-sem-redux/?couponCode=F4C86EF499B6A7DAE4DA
+* React, Redux e integração de APIs https://www.udemy.com/course/react-redux-e-integracao-de-apis/
 * TDC Florianópolis Online https://thedevconf.com/tdc/2020/floripaonline/trilhas
 * Zup Open Talks https://insights.zup.com.br/zup-open-talks
 
