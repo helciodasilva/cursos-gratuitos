@@ -8,11 +8,6 @@
 * Mundo Docker https://www.mundodocker.com.br
 * Quarentena Tech https://quarentena.tech
 
-## Canais do Telegram
-
-* Gabriel Ferreira https://t.me/Amigosdogabs
-* Tudo sobre Full Cycle Development https://t.me/s/devfullcycle
-
 ## Canais do Youtube
 
 * DevYouTubeList https://github.com/ErikCH/DevYouTubeList
@@ -36,6 +31,7 @@
 * JSCasts https://jscasts.teachable.com/
 * Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities/
 * Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
+* Next Level Week https://bit.ly/next-level-week-inscricao
 * Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
 * RENDER É O PODER 2.0 https://anderalencar.com/rendereopoder20
 * REST-Assured e Junit - Testando API - Direto ao ponto https://www.udemy.com/course/teste-api-rest-assured/
@@ -71,10 +67,6 @@
 * Hipsters Ponto Tech https://hipsters.tech
 * Podcast Full Cycle https://fullcycle.com.br/categoria/podcast
 * QuebraDev https://quebradev.com.br
-
-## Projetos de exemplo
-
-* Facial Recognition v3 https://github.com/kingaspx/Facial-Recognition
 
 ## Treinamentos
 
