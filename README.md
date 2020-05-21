@@ -15,13 +15,10 @@
 
 ## Cursos Gratuitos
 
-* 1ª MARATONA DE DESENVOLVIMENTO JAVA https://www.academiadoprofissionaldeti.com.br/lp-maratona-do-desenvolvedor-java/
-* 2º MARATONA DO UX http://maratonadoux.com.br
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
 * Angular e ReactJS https://www.udemy.com/course/aprenda-reactjs-e-angular-lib-e-framework-mais-utilizados/?couponCode=0B56296784D60D8985D4
 * Curso de Desenvolvimento Web da Startec http://startecexp.com/curso-de-desenvolvimento-web-da-startec
-* Curso de Quarkus e MongoDB https://www.udemy.com/course/quarkus-com-mongodb/?couponCode=8B8344DE47C00A4A4476
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes
 * Cursos do Nataniel Paiva https://contato.site/ac4587c0ad/nataniel-paiva/curso-gratuito
 * Danki Code https://cursos.dankicode.com/registrar
@@ -32,25 +29,14 @@
 * Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities/
 * Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
 * Next Level Week https://bit.ly/next-level-week-inscricao
-* Pluralsight Free April Month https://www.pluralsight.com/offer/2020/free-april-month
-* RENDER É O PODER 2.0 https://anderalencar.com/rendereopoder20
 * REST-Assured e Junit - Testando API - Direto ao ponto https://www.udemy.com/course/teste-api-rest-assured/
-* React Native https://www.udemy.com/course/react-native-utilizando-expo-e-sem-redux/?couponCode=F4C86EF499B6A7DAE4DA
 * React, Redux e integração de APIs https://www.udemy.com/course/react-redux-e-integracao-de-apis/
 * TDC Florianópolis Online https://thedevconf.com/tdc/2020/floripaonline/trilhas
 * Zup Open Talks https://insights.zup.com.br/zup-open-talks
 
-## Documentações
+## Ebooks
 
-* SEMVER https://semver.org/lang/pt-BR
-* Canivete Suíço do Shell (Bash) https://aurelio.net/shell/canivete
-* Lombok https://projectlombok.org/features/all
-
-## Ferramentas
-
-* Can I use https://caniuse.com/#search=ECMAScript%202015
-* Mark As Read https://chrome.google.com/webstore/detail/mark-as-read/hiflhkmicfagennabmnfcnnlpkmidfjj
-* Paste to Markdown https://euangoddard.github.io/clipboard2markdown
+* Livros InfoQ https://www.infoq.com/br/minibooks
 
 ## Git Books
 
@@ -67,7 +53,3 @@
 * Hipsters Ponto Tech https://hipsters.tech
 * Podcast Full Cycle https://fullcycle.com.br/categoria/podcast
 * QuebraDev https://quebradev.com.br
-
-## Treinamentos
-
-* Um site muito interessante que te ensina criptografia moderna através de desafios e puzzles https://cryptohack.org
