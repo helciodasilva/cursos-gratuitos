@@ -17,7 +17,6 @@
 
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
-* Angular e ReactJS https://www.udemy.com/course/aprenda-reactjs-e-angular-lib-e-framework-mais-utilizados/?couponCode=0B56296784D60D8985D4
 * Curso de Desenvolvimento Web da Startec http://startecexp.com/curso-de-desenvolvimento-web-da-startec
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes
 * Cursos do Nataniel Paiva https://contato.site/ac4587c0ad/nataniel-paiva/curso-gratuito
@@ -26,17 +25,18 @@
 * Fullstack Open 2020 https://fullstackopen.com/en
 * Guia de sobrevivência para desenvolvedores https://conteudo.blog.locaweb.com.br/guia-de-sobrevivencia-para-desenvolvedores
 * JSCasts https://jscasts.teachable.com/
-* Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities/
+* Jornada Kubernetes https://jornadakubernetes.com.br
+* Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities
 * Mini-Curso de Introdução à Big Data e Data Science https://lnkd.in/eu49gBV
 * Next Level Week https://bit.ly/next-level-week-inscricao
-* REST-Assured e Junit - Testando API - Direto ao ponto https://www.udemy.com/course/teste-api-rest-assured/
-* React, Redux e integração de APIs https://www.udemy.com/course/react-redux-e-integracao-de-apis/
+* REST-Assured e Junit - Testando API - Direto ao ponto https://www.udemy.com/course/teste-api-rest-assured
+* React, Redux e integração de APIs https://www.udemy.com/course/react-redux-e-integracao-de-apis
 * TDC Florianópolis Online https://thedevconf.com/tdc/2020/floripaonline/trilhas
 * Zup Open Talks https://insights.zup.com.br/zup-open-talks
 
 ## Ebooks
 
-* Livros InfoQ https://www.infoq.com/br/minibooks
+* InfoQ https://www.infoq.com/br/minibooks
 
 ## Git Books
 
