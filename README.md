@@ -21,6 +21,7 @@
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes
 * Cursos do Nataniel Paiva https://contato.site/ac4587c0ad/nataniel-paiva/curso-gratuito
 * Danki Code https://cursos.dankicode.com/registrar
+* desenvolvedor.io https://desenvolvedor.io
 * Digital Innovation One https://web.digitalinnovation.one
 * Fullstack Open 2020 https://fullstackopen.com/en
 * Guia de sobrevivência para desenvolvedores https://conteudo.blog.locaweb.com.br/guia-de-sobrevivencia-para-desenvolvedores
