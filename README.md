@@ -44,6 +44,7 @@
 * 100 Days Of Code https://github.com/nas5w/100-days-of-code-frontend
 * Docker para desenvolvedores https://github.com/gomex/docker-para-desenvolvedores
 * ES6 para humanos https://github.com/alexmoreno/ES6-para-humanos
+* free-programming-books https://github.com/EbookFoundation/free-programming-books
 * Guia de referencias sobre estudo de JavaScript https://gist.github.com/vinicius73/60027329a3855345e15b2eeaa3fd588d
 * quarentena-tech https://github.com/CollabCodeTech/quarentena-tech
 
