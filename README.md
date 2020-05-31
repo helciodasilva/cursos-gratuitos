@@ -38,6 +38,7 @@
 ## Ebooks
 
 * InfoQ https://www.infoq.com/br/minibooks
+* Construindo APIs testáveis com Node.js https://leanpub.com/construindo-apis-testaveis-com-nodejs
 
 ## Git Books
 
