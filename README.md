@@ -19,12 +19,12 @@
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
 * Curso de Desenvolvimento Web da Startec http://startecexp.com/curso-de-desenvolvimento-web-da-startec
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes
-* Cursos do Nataniel Paiva https://contato.site/ac4587c0ad/nataniel-paiva/curso-gratuito
 * Danki Code https://cursos.dankicode.com/registrar
 * desenvolvedor.io https://desenvolvedor.io
 * Digital Innovation One https://web.digitalinnovation.one
 * Fullstack Open 2020 https://fullstackopen.com/en
 * Guia de sobrevivência para desenvolvedores https://conteudo.blog.locaweb.com.br/guia-de-sobrevivencia-para-desenvolvedores
+* Imersão GameDev JavaScript https://www.alura.com.br/imersao-gamedev-javascript
 * JSCasts https://jscasts.teachable.com/
 * Jornada Kubernetes https://jornadakubernetes.com.br
 * Mais de 500 cursos gratuitos de ciência da computação e tecnologia das melhores universidades do mundo https://www.freecodecamp.org/news/free-courses-top-cs-universities
@@ -33,7 +33,6 @@
 * Next Level Week https://bit.ly/next-level-week-inscricao
 * REST-Assured e Junit - Testando API - Direto ao ponto https://www.udemy.com/course/teste-api-rest-assured
 * React, Redux e integração de APIs https://www.udemy.com/course/react-redux-e-integracao-de-apis
-* TDC Florianópolis Online https://thedevconf.com/tdc/2020/floripaonline/trilhas
 * Zup Open Talks https://insights.zup.com.br/zup-open-talks
 
 ## Ebooks
