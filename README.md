@@ -16,6 +16,7 @@
 ## Cursos Gratuitos
 
 * 4Linux - Cursos Gratuitos https://www.4linux.com.br/cursos-gratis
+* 50 cursos gratuitos da Udemy https://gist.github.com/helciodasilva/2eca949645569b009bddebda73ddef48
 * Angular 9 Essencial https://www.cod3r.com.br/courses/angular-9-essencial
 * Curso de Desenvolvimento Web da Startec http://startecexp.com/curso-de-desenvolvimento-web-da-startec
 * Curso de Spring REST para Iniciantes https://cafe.algaworks.com/spring-rest-para-iniciantes
